@@ -1,0 +1,21 @@
+{
+    "name": "Sistem Antrian Desa Selokromo",
+    "short_name": "AntrianDesa",
+    "description": "Aplikasi antrian online untuk Kantor Desa Selokromo",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#2d6a4f",
+    "background_color": "#ffffff",
+    "icons": [
+        {
+            "src": "/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
